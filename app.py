@@ -8,7 +8,7 @@ import streamlit as st
 
 
 car_data = pd.read_csv(
-    r'C:\Users\jhernandezp\Documents\CURSO_DA_TRIPLETEN\CURSO_TRIPLETEN\SPRINT7\vehicles_env\vehicles_us.csv')
+    r'https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_sprint_4_Refactored/vehicles_us.csv')
 
 # El título se pone en negritas, aprovechar el espacio de la página
 st.header('**Anuncios para ventas de coches**')
