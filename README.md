@@ -3,9 +3,12 @@ Proyecto módulo 7
 
 # Anuncios para venta de coches
 
-Desarrollo del proyecto, como parte del sprint 7 del curso de análisis de datos de **TRIPLETEN**.\n
-El código se escribió en lenguaje **Python**, el cual es el código principal del curso.\n
-La aplicación fue desarrollada con **Streamlit**, para practicar la visualización de datos.\n
+Desarrollo del proyecto, como parte del sprint 7 del curso de análisis de datos de **TRIPLETEN**.
+
+El código se escribió en lenguaje **Python**, el cual es el código principal del curso.
+
+La aplicación fue desarrollada con **Streamlit**, para practicar la visualización de datos.
+
 El proposito de la aplicación es desplegar algunos gráficos interactivos a modo de página web.
 
 ## Funcionalidad de la aplicación:
