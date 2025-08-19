@@ -10,6 +10,8 @@ import streamlit as st
 car_data = pd.read_csv(
     r'https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_sprint_4_Refactored/vehicles_us.csv')
 
+# me tuve que copiar el link, por qué desde mi máquina no funcionaba😕
+
 # El título se pone en negritas, aprovechar el espacio de la página
 st.header('**Anuncios para ventas de coches**')
 
